@@ -15,9 +15,9 @@
   : 실습 과제는 깃헙에 올려주세요.(https://github.com/ds-study-gangnam)
    - Popcorn 데이터(캐글 제출까지)
    - 네이버 리뷰 데이터
-     . 데이터 : https://github.com/e9t/nsmc
-     . 참고 도서 : 텐서플로 2와 머신러닝으로 시작하는 자연어처리(위키북스)
-     . 참고 코드
+     - 데이터 : https://github.com/e9t/nsmc
+     - 참고 도서 : 텐서플로 2와 머신러닝으로 시작하는 자연어처리(위키북스)
+     - 참고 코드
 	- https://cyc1am3n.github.io/2018/11/10/classifying_korean_movie_review.html
         - https://shinminyong.tistory.com/13
 
