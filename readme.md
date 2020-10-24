@@ -1,6 +1,28 @@
 # DS_STUDY_GANGNAM
 
 
+### [4주차 과제 및 진행내용] 2020-10-24
+
+안녕하세요 다음주 과제 공지합니다.
+
+유튜브 강의(4시간)와 실습이 있어 부지런히 움직이셔야합니다.
+
+1. NLP 강의
+   - 범위 :유튜브 영상 8번(05 Text Representation) ~ 13번(06 Dimensionality_Reduction) 
+   - Text Representation(용선), Dimensionality_Reduction(종현)
+
+2. 실습 과제
+  : 실습 과제는 깃헙에 올려주세요.(https://github.com/ds-study-gangnam)
+   - Popcorn 데이터(캐글 제출까지)
+   - 네이버 리뷰 데이터
+     . 데이터 : https://github.com/e9t/nsmc
+     . 참고 도서 : 텐서플로 2와 머신러닝으로 시작하는 자연어처리(위키북스)
+     . 참고 코드
+	- https://cyc1am3n.github.io/2018/11/10/classifying_korean_movie_review.html
+        - https://shinminyong.tistory.com/13
+
+
+
 ### [3주차 과제 및 진행내용] 2020-10-17
 
 안녕하세요 다음주는 유튜브 영상 없이 NLP 실습만 있습니다.
