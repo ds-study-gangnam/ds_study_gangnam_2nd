@@ -39,5 +39,5 @@
   - 교재 [https://github.com/pilsung-kang/text-analytics](https://github.com/pilsung-kang/text-analytics)
   - 1시간 반정도 이론 이야기 하고 나머지 1시간 반은 태진님께서 깃헙 소개(관리법 등) 해주실거에요
   
- ### Reference
+ ### Guide Reference
 - https://github.com/zzsza/Perfect-Guide-about-Machine-Learning-Study
