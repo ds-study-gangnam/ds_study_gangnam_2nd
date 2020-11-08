@@ -1,6 +1,31 @@
 # DS_STUDY_GANGNAM
 
 
+
+
+### [5주차 과제 및 진행내용] 2020-11-08
+
+안녕하세요 다음주 과제 공지합니다.
+
+- 최신 NLP 모델에 근간이 되는 Transformer에 대해 공부하는 주입니다. 매우 중요한 파트이니 내용 이해에 최대한 집중해주세요.
+- 실습은 전주에 한국어 Chatbot 만들기(Seq2Seq)를 연장하겠습니다.
+- 그 다음주는 Transformer로 만드는 겁니다.
+
+1. NLP 강의
+   - 범위 : Transformer(8-2, 호재)
+
+2. 실실습 과제 : 한국어 챗봇만들기(Seq2Seq)
+
+- 아래 링크에 가시면 한국어 질의응답데이터가 있습니다.
+- 예제도 함께 올려드리니 한국어 챗봇 만들기에 도전해주세요. 
+- 데이터 : https://github.com/changwookjun/ChatBot_seq2seq 
+- 예제 : Seq2Seq https://github.com/changwookjun/ChatBot_seq2seq_extend
+
+3. 차주 스터디 내용
+  - 1~2교시 : Transformer(호재)
+  - 2~3교시 : Docker 실습(태진)
+
+
 ### [5주차 과제 및 진행내용] 2020-10-31
 
 안녕하세요 다음주 과제 공지합니다.
